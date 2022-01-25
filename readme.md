@@ -1,8 +1,8 @@
 # Salve! Eu sou Aldry Albuquerque 🎈🎈
 
     🧭 Desenvolvedor NodeJs|JavaScript|TypeScript.
-    🧭 Desenvolvedor Python|Django com foco em inovação em API Rest.
-    🧭 Estudante com foco de carreira em Data Science e todo Ecossistema de Dados.
+    🧭 Desenvolvedor NestJs com foco em inovação em API Rest.
+    🧭 Estudante com foco de carreira em Agile Culture e DevOps.
     
 <div align="center">
   <a href="https://github.com/albuquerquealdry">
