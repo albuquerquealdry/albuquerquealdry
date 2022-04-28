@@ -21,6 +21,5 @@
    <img align="center" alt="Aldr-Pandas" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Rafa-node" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rafa-nest" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
-  <img align="center" alt="Rafa-mongo" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   </div>
  
