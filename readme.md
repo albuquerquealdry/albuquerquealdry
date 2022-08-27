@@ -1,6 +1,6 @@
 # Salve! Eu sou Aldry Albuquerque 🎈🎈
 
-    ⚙️ Engenheiro DevOps Junior.
+    ⚙️ Engenheiro DevOps Pleno.
     🧭 Estudante com foco em ferramentas de ambiente e pipelines.
     🛠️ Vamo aprender para automatizar tudos e todos.
 
