@@ -1,7 +1,7 @@
 # Salve! Eu sou Aldry Albuquerque 🎈🎈
 
     ⚙️ Engenheiro DevOps Pleno.
-    🧭 Estudante com foco em ferramentas de ambiente e pipelines.
+    🧭 Estudante com foco em Cloud.
     🛠️ Vamo aprender para automatizar tudos e todos.
 
 
