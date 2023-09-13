@@ -18,11 +18,16 @@
   <img align="center" alt="Rafa-linux" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Rafa-Kube" height="60" width="60" src="https://github.com/jmnote/z-icons/blob/master/svg/kubernetes.svg">
   <img align="center" alt="Aldr-Pandas" height="60" width="100"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-   <img align="center" alt="Aldr-Pandas" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="Rafa-node" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+   <img align="center" alt="Aldr-Pandas" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg">
+<img align="center" alt="Aldr-Pandas" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+    <img align="center" alt="Aldr-Pandas" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
+    <img align="center" alt="Rafa-node" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rafa-nest" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
-    <img align="center" alt="Rafa-nest" height="60" width="100"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img align="center" alt="Rafa-nest" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
+    <img align="center" alt="Rafa-nest" height="60" width="100"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
   </div>
+
+  
  
 --------------------
 
